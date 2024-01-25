@@ -11,4 +11,6 @@
     server-->>browser: {"message":"note created"}
     deactivate server
 
+    Note right of browser:  Single page app does not reload the whole page
+
 ```
